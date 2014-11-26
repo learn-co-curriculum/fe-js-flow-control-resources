@@ -15,3 +15,5 @@ resources: 8
 - [MDN - Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 - [Slides 16 - Functions](https://docs.google.com/presentation/d/1yoZyfQbvEfw53Pp03Bd_ziY8-Ai0jqCeQ0NKy4EAce8/edit?usp=sharing)
 - [Code Example - Beatles Functions App](http://jsfiddle.net/flatiron_school/Jw46J/2/)
+- [Code Example - Closures](http://jsfiddle.net/flatiron_school/nn4zh/)
+- [Code Example - Hoisting](http://jsfiddle.net/flatiron_school/9e4WU/)
