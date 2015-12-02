@@ -12,3 +12,5 @@
 - [Code Example - Beatles Functions App](http://jsfiddle.net/flatiron_school/Jw46J/2/)
 - [Code Example - Closures](http://jsfiddle.net/flatiron_school/nn4zh/)
 - [Code Example - Hoisting](http://jsfiddle.net/flatiron_school/9e4WU/)
+
+<a href='https://learn.co/lessons/fe-js-flow-control-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
