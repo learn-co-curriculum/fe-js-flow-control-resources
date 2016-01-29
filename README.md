@@ -13,4 +13,4 @@
 - [Code Example - Closures](http://jsfiddle.net/flatiron_school/nn4zh/)
 - [Code Example - Hoisting](http://jsfiddle.net/flatiron_school/9e4WU/)
 
-<a href='https://learn.co/lessons/fe-js-flow-control-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-js-flow-control-resources' title='Resources'>Resources</a> on Learn.co and start learning to code for free.</p>
